@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39617017981",
+    "project_id": "teacher-training-full-series",
+    "storage_bucket": "teacher-training-full-series.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39617017981:android:03660be6c69fa19c955914",
+        "android_client_info": {
+          "package_name": "com.anukupedot.trintcfllsries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39617017981-6c2i0sa776bd25piv084ebboc8pajclr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7p8bqqLYEvQi1VA94QaaKzZfnF21JRBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39617017981-6c2i0sa776bd25piv084ebboc8pajclr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
