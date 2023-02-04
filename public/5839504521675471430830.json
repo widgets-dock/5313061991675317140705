@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707320310071",
+    "project_id": "staying-with-ajumma",
+    "storage_bucket": "staying-with-ajumma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707320310071:android:7b10ada4e45d507c1652b2",
+        "android_client_info": {
+          "package_name": "com.garangankimcil.synwthjmma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707320310071-cqpg3es72d8u5e7obta4jc6mdcse7rr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXqcnIzGSMv8ARsNXsknfMAaNxadnmlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707320310071-cqpg3es72d8u5e7obta4jc6mdcse7rr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
