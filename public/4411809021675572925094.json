@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228796565042",
+    "project_id": "hunting-mother-full-review",
+    "storage_bucket": "hunting-mother-full-review.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228796565042:android:99662d280899271a461e2b",
+        "android_client_info": {
+          "package_name": "com.mufizaro.hntgmthrfllrvw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228796565042-cjf8eigsim72lsg9thqdh9k9poatm5io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHepclSpSZJYIrs-_eQ2lAYSniS5wd9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228796565042-cjf8eigsim72lsg9thqdh9k9poatm5io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
